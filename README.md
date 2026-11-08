@@ -4,7 +4,7 @@ A VLC skin based on Juxtopposed's **VLC Redesign** concept. It's dark and minima
 
 ![VLC Redesign skin](images/preview.png)
 
-**[Download the latest release](https://github.com/shinnahu/vlc-redesign-skin/releases/latest)**
+**[Download the latest release](https://github.com/shinnahu/VLC-Redesign/releases/latest)**
 
 ## Features
 
@@ -19,7 +19,7 @@ A VLC skin based on Juxtopposed's **VLC Redesign** concept. It's dark and minima
 
 ## Install
 
-Download `VLC-Redesign.vlt` (or `VLC-Redesign-skin.zip`, which adds an install guide) from the [latest release](https://github.com/shinnahu/vlc-redesign-skin/releases/latest).
+Download `VLC-Redesign.vlt` (or `VLC-Redesign-skin.zip`, which adds an install guide) from the [latest release](https://github.com/shinnahu/VLC-Redesign/releases/latest).
 
 **Windows**
 1. Copy `VLC-Redesign.vlt` into `%APPDATA%\vlc\skins`. Paste that path into File Explorer's address bar, and create the `skins` folder if it doesn't exist.
